@@ -3,11 +3,9 @@
 導入手順
 
 ````
-$ git clone URL
-$ cd hogehoge
+$ git clone https://github.com/mikakane/reciepton.git
+$ cd reciepton
 $ composer install
 $ vendor/bin/homestead make
 $ vagrant up
-
-
 ````
